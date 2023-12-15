@@ -1,4 +1,4 @@
-const calculateTime = require("../hard (promises)/3-promise-all");
+import { calculateTime } from "../hard (promises)/3-promise-all";
 
 describe("calculateTime function", () => {
   test("calculates time 1", async () => {

@@ -1,4 +1,4 @@
-const sleep = require("../hard (promises)/2-sleep-completely");
+import { sleep } from "../hard (promises)/2-sleep-completely";
 
 describe("sleep function", () => {
   test("resolves after 1 second", () => {
